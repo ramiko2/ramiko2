@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabiya</h1>
-<h3 align="center">A computer programming student. I am currently improving my skills in C/C++, Python, and HTML, and I strive to learn something new every day.</h3>
+<h3 align="center">As a computer programming student, I focus on improving my skills in C/C++, Python and HTML while embracing the opportunity to learn something new every day.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
